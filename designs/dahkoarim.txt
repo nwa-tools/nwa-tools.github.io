@@ -1,0 +1,163 @@
+The following designs are to be used only for members of the appropriate group.
+As the sketches are rather long, I've split this into three separate posts
+for easier access. These items may be discounted down to no cost as you feel
+appropriate, or may be paid for with items like wands, blowers, manas,
+orbs, and flowers in trade.
+
+------
+```
+WARNING: This formatter doesn't do this request well. You may just wish to copy the
+text out of the editor.
+
+OOC Note: the engraving quote and single letters should be centered
+The initial of the current guild master/mistress is to be added to the ring's
+engraving upon appointment.
+```
+
+High clergy signet ring {ID ring, dyecast black, ordernumber 5} [[[Guild Master Only]]]
+
+A seamless collaboration of macabre style and old world elegance, this
+gracefully tenebrous signet ring has been cast from stark obsidian and stormily
+iridescent labradorite. That former ore, as it is sculpted to create the band
+of this ring, is breathtaking in its depth and purity, with not a blemish to be
+found in its midnight hues. It wraps about the wearer's ring finger smoothly
+with a mirror like gleam, supporting four mounted prongs at its apex and a
+cathedral setting for the center stone. The vitreous focal point in question is
+a uniquely carved shard of tempestuously colored labradorite, the grayish blue
+mineral veined by streaks of pearlescent cerulean, jade and ebony like some
+surreally stormy sky, or wild contagion ravaging its victim's veins. It is
+faceted, then, to render the likeness of a miniature coffin, with a shape
+elongated to roughly an inch, and showcasing a classic, six sided build. Minute
+hinges of bone, dyed black, line the left side of the little box to add some
+function to the design, allowing one to flip it open and peer inwards at the
+cursive script engraved at the bottom.
+
+Engraving:
+           "Forever Beats the Nocturnal Heart."
+
+                   R * N * V * O * Z
+
+---
+
+Dahkoar cleric pendant (dye: black, order: 3) [[[Clergy]]]
+A slender braided, black silk cord drapes freely from the neck, tied in a
+simple slipknot at the nape. Dangling from the cord and centered over the
+breastbone, an ivory disk, darkened by smoke leaves it cast with shadowy gray
+hues in a unique wispy pattern. Set in the heart of the medallion and carved
+with precision rests an unquestionably human skull canted at such an angle that
+its eyeless stare faces toward the left. Perched upon its crown an elegant
+raven roosts, sleek wings folded neatly behinds itself while the head is tilted
+back, the beak parted in a silent caw. The feathers of the bird appear slick
+with ink that refuses to dry, the abyssal black tinted with a gleam of blue.
+Slithering around and within, a scaled serpent constricts around the skull,
+winding its way between the teeth and upwards, its triangular head snaking down
+from the right eye socket. Set behind the holy trio, a long staff of unworldly
+appearance oozing with the green of infection creates a backdrop for the
+pendant. Etched into the back of the pendant in an elegant script are the four
+tenets of the Lord: Divinity, Devotion, Determination, Dominance.
+
+---
+
+Dahkoar clerical vestments (dyecast: black, order: 4) [[[Clergy]]]
+
+Tailored from a soft yet durable cotton, the vestments are designed to keep one
+cool under the sweltering heat of the suden sun and warm during its chilled
+nights. A classic fit, uncomplicated by its very design, the hooded robe covers
+from head to toe. Neither loose, nor snug, the ebon hued fabric appear crafted
+from the very depths of the darkest night, utterly devoid of color. The deep
+hood easily fits over the head, casting shadows over the face and obscuring
+them from view. Long loose sleeves extend just past the wrists with enough
+space for both arms to be tucked within comfortably, while the bottom hem dusts
+above the ground. A fine silken rope ties around the waist, the only adornment
+to this otherwise austere garment.
+
+---
+
+Dahkoar acolyte vestments (dyecast: black, order: 4) [[[Clergy]]]
+
+Dyed in hues of deepest midnight, the cotton from which this robe is crafted is
+light but durable. Draping the form from the neck down, the garment's hem
+brushes the ground. The sleeves reach past the wrists, long enough to hide
+clasped hands within if so desired. A modest hood allows protection from the
+elements and unwanted gazes, casting the face in shadow when pulled up. Simple
+in design, these humble vestments are pulled on over the head and lack any
+stays or fastenings to secure it in front. Embroidery over the heart depicts a
+human skull, a serpent's head peeking from the left eye socket while an austere
+raven perches atop its crown.
+
+---
+
+Dahkoar clerical caparison (black, order: 8) [[[Clergy]]]
+
+A curious but functional fusion of garments, these vestments give a nod to both
+human and equine aspects of a centaur's form. Tailored from a soft yet durable
+cotton, the piece is designed to keep one cool under the sweltering heat of the
+Suden sun and warm during its chilled nights. Austere in design but still
+maintaining inherent elegance, a hooded robe covers the wearer from the crown
+of his or her head to hip, the material so dark in color that it may as well
+have been snipped from a starless sky. The deep hood easily fits over the head,
+casting one's face into umbrage while long, loosely fitted sleeves extend just
+past the wrists with enough space for both arms to be tucked within
+comfortably. A fine silken rope ties around the waist, one of only two
+adornments to grace the ink-dark fabric. From there, it transforms into a
+caparison, draping over an equine back and trailing over flanks like wisps of
+shadow. Stitched with care along the outer edges in stark grey silk is a
+labyrinthine pattern, the strands of slate depicting a triumvirate of Serpent,
+Skull, and Raven.
+
+---
+
+Dahkoar acolyte caparison (black, order 8) [[[Clergy]]]
+
+A curious but functional fusion of garments, these vestments give a nod to both
+human and equine aspects of a centaur's form. Tailored from a soft yet durable
+cotton, the piece is designed to keep one cool under the sweltering heat of the
+Suden sun and warm during its chilled nights. Austere in design but still
+maintaining inherent elegance, a simple robe covers the wearer from collar to
+hip, the material so dark in color that it may as well have been snipped from a
+starless sky. Long, loosely fitted sleeves extend just past the wrists with
+enough space for both arms to be tucked within comfortably. A fine silken rope
+ties around the waist, the only adornment to grace the ink-dark fabric. From
+there, it transforms into a caparison, draping over an equine back and trailing
+over flanks like wisps of shadow.
+
+---
+
+Supplicant vestments (dyecast: black, order: 4) [[[Applicants to the Clergy]]]
+
+Durable linen dyed a flat, matte black forms a long, shapeless garment that
+hangs from shoulders to ankles, the high collar and long sleeves covering
+nearly all of the wearer. The sole adornment on the robes are three pairs of
+buttons holding together the double breasted front. Each button is carved with
+exquisite care, starting with a pair of obsidian ravens glinting against the
+dull fabric. Beneath them deep green malachite forms a pair of dappled serpents
+coiled to strike, and at the waist, polished ivory skulls give a macabre grin.
+
+---
+
+Dahkoar supplicant caparison (black, order 8) [[[Applicants to the Clergy]]]
+
+These vestments give a nod to both human and equine aspects of a centaur's
+form, covering both one's torso and the more substantial figure beneath with
+sturdy black fabric. Tailored from a no-nonsense, durable linen, the piece is
+rigidly designed to keep one cool under a harsh Suden sun and to withstand the
+wear and tear of manual labor. Austere in design, the garment boasts a high
+collar and long, fitted sleeves that extend smartly to the wrists. A rough,
+dark rope of obsidian hue ties around the waist to secure the vestments in
+place like a belt, the only adornment this simple piece bears. From there, it
+transforms into a caparison, draping over an equine back and trailing over
+flanks like wisps of shadow.
+
+---
+
+Dahkoar Faith
+
+Band of darkness (dyecast: black , order: 8 ) [[[Faith Members]]]
+Carved and sanded to a smooth, matte finish, this onyx band winds around the
+middle finger in a constricting embrace. Wide enough to be noticed, yet not
+become a burden, the abyssal hues of the ring appear to consume and destroy all
+light with its non-reflective surface. The heavy stone it is carved from
+remains a constant reminder even in its slim design. The ring is otherwise left
+unadorned, only an inscription along the inside of the band in an elegant
+script: Divinity, Devotion, Determination, Dominance.
+

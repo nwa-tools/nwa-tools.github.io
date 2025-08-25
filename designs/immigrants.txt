@@ -1,0 +1,79 @@
+Simple cotton dress {ID dress, ordernumber:6}
+
+This dress has been constructed from cotton allowing for protection from the
+various elements but still allowing for breathability. A broad circular collar
+encircles the wearer's neck and shoulders, having been embroidered in a
+simplistic chain pattern out of thread of the same color as the rest of the
+dress. Long sleeves end in similar cuffs at the wrist. From the waist the
+skirts extend down to just past the ankle in draped pleats. This article has
+been tailored to fit a wide range of wearers, including flaps that tie shut in
+the back to accommodate wings or tails as needed.
+
+---
+
+Simple cotton shirt {ID shirt, ordernumber:6}
+
+This shirt is a simple garment constructed from cotton allowing for protection
+from the various elements but still allowing for breathability. A broad
+circular collar encircles the wearer's neck and shoulders, having been
+embroidered in a simplistic chain pattern out of thread of the same color as
+the rest of the shirt. Long sleeves end in similar cuffs at the wrist. The
+shirt hangs down to the waist, falling just beneath the navel. This article has
+been tailored to fit a wide range of wearers, including flaps that tie shut in
+the back to accommodate wings as needed.
+
+---
+
+Simple cotton trousers {ID trousers, ordernumber:11}
+
+These trousers are a simple garment from cotton allowing for protection from
+the various elements but still allowing for breathability. Encircling the
+waist, the upper hem is adjustable with a simple tie cord that is threaded
+through the material itself and tied on the inside of the trouser. Extending
+from waist to ankle, there are simplistic straight lines which still allow
+utility. This article has been tailored to fit a wide range of wearers,
+including flaps that tie shut in the back to accommodate tails as needed.
+
+---
+
+Simple cotton robes {ID robes, ordernumber:6}
+
+These robes have been constructed from cotton allowing for protection from the
+various elements but still allowing for breathability. A broad circular collar
+encircles the wearer's neck and shoulders, having been embroidered in a
+simplistic chain pattern out of thread of the same color as the rest of the
+robes. A simple rope belt encircles the waist holding the robes closed, and an
+additional panel has been added in the front of the robe to protect the legs in
+movement. The bottom hem extends to the ankle of the wearer. This article has
+been tailored to fit a wide range of wearers, including flaps that tie shut in
+the back to accommodate wings or tails as needed.
+
+---
+
+Simple leather sandals {ID sandals, ordernumber 15}
+
+Encasing each foot are sandals with broad leather straps to ensure that they
+remain on the foot through various activities. The soles of each sandal have
+been reinforced to protect the sole of the foot from the various dangers feet
+might encounter through activity or travel. The straps are adorned with
+functional copper buckles to allow for a custom fit.
+
+---
+
+Simple leather boots {ID boots, ordernumber 14}
+
+Encasing each foot are boots of reinforced leather that extend to the ankle
+where they tie to ensure they remain on the foot through various activities.
+The soles of each boot have been reinforced to protect the sole of the foot
+from the various dangers feet might encounter through activity or travel. The
+straps are adorned with functional copper buckles to allow for a custom fit.
+
+---
+
+Simple cotton caparison {ID caparison, ordernumber:11}
+
+This long swatch of cotton material is designed to cover the back and
+hindquarters of a centaur. The garment maintains a slit in the back that allows
+for a tail, and a long strap with a buckle to ensure the caparison stays in
+place. Embroidered along a broad hem is a simplistic chain pattern out of
+thread of the same color as the rest of the article of clothing.

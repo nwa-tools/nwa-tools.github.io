@@ -1,0 +1,198 @@
+```
+The following designs were provided by Talyn & Soren for the members and
+refined by Morwyn & Xesta. Bracers are to be sold to members of appropriate
+rank at standard tailoring costs. If there is a question or concern about a
+rank, contact a ranking member of the Garrison for answers.
+```
+
+Armsman bracers {bracers, ordernumber 7, dye red}
+
+Spanning from wrist to forearm, these bracers are made of supple, comfortable
+maroon leather to allow ease of movement. Embroidered with stitching
+reminiscent of bared blades, this signifier of rank is left unadorned with
+tassel or stud. Though too thin to serve as armor, the armsman's bracers could
+easily be the breaker of many a nose.
+
+---
+
+```
+The following designs were provided by Talyn & Soren for the members and
+refined by Morwyn & Xesta. Bracers are to be sold to members of appropriate
+rank at standard tailoring costs. If there is a question or concern about a
+rank, contact a ranking member of the Garrison for answers.
+```
+
+Crimson lion caparison {caparison, ordernumber 11, dye black}
+
+The treated woolen cloth you see before you rests comfortably on this
+individual's equine form, draping over the back, sweeping down the cannon of
+the legs. The pattern of the caparison boasts colors of dark crimson and onyx,
+with a handful of circular golden buttons trailing from where the torso meets
+the withers, to the bottom hem. There is a fearsome lion embroidered into the
+center of the chest in crimson thread. To match the emblems is a depiction of a
+kite shield sewn into one side of the caparison, with a similar image of a lion
+nestled in the center that signifies this person as a member of the Order of
+the Crimson Lion.
+
+---
+
+```
+The following designs were provided by Talyn & Soren for the members and
+refined by Morwyn & Xesta. Bracers are to be sold to members of appropriate
+rank at standard tailoring costs. If there is a question or concern about a
+rank, contact a ranking member of the Garrison for answers.
+```
+
+Crimson knight bracers {ID bracers, ordernumber 7, dye red}
+
+Spanning from wrist to forearm, these bracers are made of supple, comfortable
+leather to allow ease of movement. While they afford no protection, they are
+part of formal uniform attire and feature bands of silver attached at both ends
+as befitting the station of the wearer. The back of each bracer is stamped with
+the Garrison coat of arms to show membership in the Order of the Crimson Lion
+with a patch bearing the sigil for the rank of a Knight sewn beneath.
+
+---
+
+```
+The following designs were provided by Talyn & Soren for the members and
+refined by Morwyn & Xesta. Bracers are to be sold to members of appropriate
+rank at standard tailoring costs. If there is a question or concern about a
+rank, contact a ranking member of the Garrison for answers.
+```
+
+Knight corporal bracers {ID bracers, ordernumber 7, dye yellow}
+
+Spanning from wrist to forearm, these bracers are made of supple, comfortable
+leather to allow ease of movement. While they afford no protection, they are
+part of formal uniform attire and feature bands of silver attached at both ends
+as befitting the station of the wearer. The back of each bracer is stamped with
+the Garrison coat of arms to show membership in the Order of the Crimson Lion
+with a patch bearing the sigil for the rank of a Knight Corporal sewn beneath.
+
+---
+
+```
+The following designs were provided by Talyn & Soren for the members and
+refined by Morwyn & Xesta. Bracers are to be sold to members of appropriate
+rank at standard tailoring costs. If there is a question or concern about a
+rank, contact a ranking member of the Garrison for answers.
+```
+
+Knight sergeant bracers {ID bracers, ordernumber 7, dye brightred}
+
+Spanning from wrist to forearm, these bracers are made of supple, comfortable
+leather to allow ease of movement. While they afford no protection, they are
+part of formal uniform attire and feature bands of brass attached at both ends
+as befitting the station of the wearer. The back of each bracer is stamped with
+the Garrison coat of arms to show membership in the Order of the Crimson Lion
+with a patch bearing the sigil for the rank of a Knight Sergeant sewn beneath.
+
+---
+
+```
+The following designs were provided by Talyn & Soren for the members and
+refined by Morwyn & Xesta. Bracers are to be sold to members of appropriate
+rank at standard tailoring costs. If there is a question or concern about a
+rank, contact a ranking member of the Garrison for answers.
+```
+
+Knight lieutenant bracers {ID bracers, ordernumber 7, dye teal}
+
+Spanning from wrist to forearm, these bracers are made of supple, comfortable
+leather to allow ease of movement. While they afford no protection, they are
+part of formal uniform attire and feature bands of gold attached at both ends
+as befitting the station of the wearer. The back of each bracer is stamped with
+the Garrison coat of arms to show membership in the Order of the Crimson Lion
+with a patch bearing the sigil for the rank of a Knight Lieutenant sewn
+beneath.
+
+---
+
+```
+The following designs were provided by Talyn & Soren for the members and
+refined by Morwyn & Xesta. Bracers are to be sold to members of appropriate
+rank at standard tailoring costs. If there is a question or concern about a
+rank, contact a ranking member of the Garrison for answers.
+```
+
+Knight captain bracers {ID bracers, ordernumber 7, dye teal}
+
+Spanning from wrist to forearm, these bracers are made of supple, comfortable
+leather to allow ease of movement. While they afford no protection, they are
+part of formal uniform attire and feature bands of gold attached at both ends
+as befitting the station of the wearer. The back of each bracer is stamped with
+the Garrison coat of arms to show membership in the Order of the Crimson Lion
+with a patch bearing the sigil for the rank of a Knight Captain sewn beneath.
+
+---
+
+```
+The following designs were provided by Talyn & Soren for the members and
+refined by Morwyn & Xesta. Bracers are to be sold to members of appropriate
+rank at standard tailoring costs. If there is a question or concern about a
+rank, contact a ranking member of the Garrison for answers.
+```
+
+Reserve officer bracers {ID bracers, ordernumber 7, dye grey}
+
+Spanning from wrist to forearm, these bracers are made of supple, comfortable
+leather to allow ease of movement. While they afford no protection, they are
+part of formal uniform attire and feature bands of silver attached at both ends
+as befitting the station of the wearer. The back of each bracer is stamped with
+the Garrison coat of arms to show membership in the Order of the Crimson Lion
+with a patch bearing the sigil for the rank of Reserve Officer sewn beneath.
+
+---
+
+```
+The following designs were provided by Talyn & Soren for the members and
+refined by Morwyn & Xesta. Bracers are to be sold to members of appropriate
+rank at standard tailoring costs. If there is a question or concern about a
+rank, contact a ranking member of the Garrison for answers.
+```
+
+Knight general bracers {ID bracers, ordernumber 7, dye grey}
+
+Spanning from wrist to forearm, these bracers are made of supple, comfortable
+leather to allow ease of movement. While they afford no protection, they are
+part of formal uniform attire and feature bands of platinum attached at both
+ends as befitting the station of the wearer. The back of each bracer is stamped
+with the Garrison coat of arms to show membership in the Order of the Crimson
+Lion with a patch bearing the sigil for the rank of a Knight General sewn
+beneath.
+
+---
+
+```
+The following designs were provided by Talyn & Soren for the members and
+refined by Morwyn & Xesta. Bracers are to be sold to members of appropriate
+rank at standard tailoring costs. If there is a question or concern about a
+rank, contact a ranking member of the Garrison for answers.
+```
+
+Knight commander bracers {ID bracers, ordernumber 7, dye grey}
+
+Spanning from wrist to forearm, these bracers are made of supple, comfortable
+leather to allow ease of movement. While they afford no protection, they are
+part of formal uniform attire and feature bands of platinum attached at both
+ends as befitting the station of the wearer. The back of each bracer is stamped
+with the Garrison coat of arms to show membership in the Order of the Crimson
+Lion with a patch bearing the sigil for the rank of Commander sewn beneath.
+
+---
+
+```
+The tabard can be sold to any Garrison member.
+```
+
+Crimson lion tabard {ID tabard, ordernumber 4, dye black}
+
+The billowing panels of onyx-hued cotton that make for this tabard lay over the
+shoulders with open sides, allowing the arms to move freely as they please.
+Supple leather forms the belt that wraps around the person's waist, with an
+unobtrusive silver buckle fastening the piece in place to allow the remaining
+fabric of the tabard to flow freely down and brush against the thighs. Noble in
+its design, a fearsome lion is embroidered into the center of the chest in
+crimson thread. The heraldic lion's mane is ruffled majestically around its
+head as its eyes stare out to the front of the tabard.

@@ -1,0 +1,104 @@
+These are designs for the mages guild
+
+------
+
+Black stone oval necklace {ID necklace, ordernumber 3, dye black}
+Glistening as if coated with a thin layer of liquid, so smooth that any light
+cast upon its surface reflects back without the slightest distortion, the oval
+centrepiece of this necklace is a striking stone indeed. Aside from the fact
+that it must have been polished with exquisite care, it seems to display no
+strange outward phenomena, no remarkable properties at first glance. The brown
+leather cord securely tied around it at top and bottom functions as setting,
+chain, and clasp, with an adjustable sliding knot that allows it to be worn
+around the neck.
+
+---
+
+```
+These robes can be dyed grey or black
+```
+
+Ceremonial tower magus robe  {ID robe, ordernumber 5, dyecast black}
+
+As breath taking as it is mysterious, this ornate ceremonial robe is a wash of
+dyed iridescent chromatic colors that seem to shift through the spectrum of
+light with every scant movement of the silken fabric, never yielding one color
+for very long before it seems to phase into another shade like an unending ebb
+of energy. With a high buttoned formal collar, the garment sweeps into long,
+loose triangular sleeves that reach almost halfway down each hand, not quite
+covering the fingers. Intricate arcane runes of an apparent ancient form are
+embroidered along the edge of the sleeves, contrasting darker chromatic dyed
+thread used to make the runes stand out against the otherwise shifting colors
+of the background. Tailored to suit the wearer, the robe is drawn in shallowly
+to the one wearing it along the torso, careful stitching allowing a comfortable
+yet semi formal fit as the robe flares nearly to the ground in length. More
+arcane runes border every seam and arch boldly around the bottom hem of the
+robe, before flaring up the back in a chaotic display that reaches all the way
+to the shoulders.
+
+---
+
+Incandescent pyromancer sash
+
+Scarlet silks prevail as the dominant fabric in this ornate sash, the
+flame-hued panels of which falls from left shoulder to right hip in a pristine
+wave. Sewn with a bold hand so that the image bears a tactile presence, the
+only adornment marking this ornamentation is the symbol of the Pyromancer; a
+crimson tear of flame that blazes forth from the center of a mystical rune.
+
+---
+
+Arcanus evoker sash { ID sash, ordernumber 9, dye blue }
+Azure silks prevail as the dominant fabric in this ornate sash, the blue panels
+of which falls from left shoulder to right hip in a pristine wave. Sewn with a
+bold hand so that the image bears a tactile presence, the only adornment
+marking this ornamentation is the symbol of the evoker; a single upraised hand
+rests over the mage's heart. Azure magics coalesce within the open palm like a
+reflection of the sky: crisp, clear, and brilliant. Radiating outwards in an
+intricate pattern, the arcane forces seem to form themselves into a silver web
+of intricate matricies that rotate about a closed tome.
+
+---
+
+Ethereal theurgist sash { ID sash, ordernumber 9, dye grey }
+Starry silks prevail as the dominant fabric in this ornate sash, the silvery
+panels of which falls from left shoulder to right hip in a pristine wave. Sewn
+with a bold hand so that the image bears a tactile presence, the only adornment
+marking this ornamentation is the symbol of the Inferni; glowing lines of
+silver knotwork encircle in a seemingly endless loop about a rune-marked
+scroll. The matricies of this intricate web run in convoluted,
+near-undiscernable pathways that draws the eye in with a hypnotic magnetism.
+
+---
+
+Scintillating arcandor sash { ID sash, ordernumber 9, dye aqua }
+Aquatic hued silks prevail as the dominant fabric in this ornate sash, the
+bright panels of which falls from left shoulder to right hip in a pristine
+wave. Sewn with a bold hand so that the image bears a tactile presence, the
+only adornment marking this ornamentation is the symbol of the Arcandor; An
+image of a shield in a deep aqua shade that has been branded with an arcing
+blast of fire that scorches across its face.
+
+---
+
+Formidable war mage sash { ID sash, ordernumber 9, dye yellow }
+Sun-born silks prevail as the dominant fabric in this ornate sash, the golden
+panels of which falls from left shoulder to right hip in a pristine wave. Sewn
+with a bold hand so that the image bears a tactile presence, the only adornment
+marking this ornamentation is the symbol of the War Mage; a great golden
+phoenix, perhaps one of the greatest embodiments of magic that a mage can
+summon, perches regally atop a luminescent staff of power. Made even more
+fearsome by the corona of fire wreathing its noble frame, the magical bird of
+prey seems to meet your gaze with a stunning intelligence. Thus, the illusion
+rendered is of the phoenix acting as a physical conduit to grant the staff of
+power its own mystical glow.
+
+---
+
+Grand wizards sash { ID sash, ordernumber 9, dye black }
+Ebony silks prevail as the dominant fabric in this ornate sash, the coal-hued
+panels of which falls from left shoulder to right hip in a pristine wave. Sewn
+with a bold hand so that the image bears a tactile presence, the only adornment
+marking this ornamentation is the symbol of the Grand Wizard; An ethereal hand
+that seems to border on the edge of visibility that is turned palm down with a
+shower of flaming meteorites that fall from its grasp.

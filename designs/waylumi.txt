@@ -1,0 +1,331 @@
+These are designs for the Waylumi Clerics and Devoted. Several of the items
+are for specific orders which are listed in the individual notes. Many of
+the items include engravings! So watch out for that.
+
+------
+```
+Robe may be requested to be dyed a different color.
+```
+
+Waylumi clerical robes {ID robes, ordernumber 4, dye grey} [[[For Clergy]]]
+
+Pure white flowing silk falls comfortably from the shoulders to feet of this
+robe. The sleeves run the length of the arm, loose and free flowing with cuffs
+of deep blue. A simple cowl can be pulled over the head ending above the brow,
+its inner lining catching all incoming light to bathe the wearer's face in a
+warm glow. Running along the outside edge of the cowl, down the length of the
+front opening and sides of the body, to the floor is an intertwined pattern of
+gold and silver embroidery. Around the waist, silvery satin rope holds the
+garment in place. Several blue crystal gems are sewn into place along the
+front, with matching opening on their opposite side to fasten the robe closed.
+Stitched on to the back of each shoulder a beautiful dove, one clasping a
+magnificent blue mace, the other a shining golden gem.
+
+---
+
+```
+This medallion has an engraving!
+```
+
+Silver dove medallion {ID medallion, ordernumber 2, dye grey} [[[For All Faithful]]]
+
+Cast from a shimmering silver and exquisitely embossed with the majestic form
+of a regal dove, this medallion appears to reflect and refract all available
+light, the effect striking in its beatific luminosity. Captured in mid-flight,
+wings spread wide in apparent victory, a single vigilant eye peers out at the
+viewer, it's sapphire gaze bright with some inner wisdom, the artistry so
+exacting that the shimmering gem creates the illusion of a fathomless,
+unquestioned depth of love. Grasped between strong, dexterous talons is a
+glimmering mace, its length inlaid with a single clear-cut, multi-faceted
+diamond, the smooth head of the weapon given tines of purest, refracted light.
+
+Engraving:
+Love, Honor, Wisdom, Vigilance
+
+---
+
+```
+Order of Love. This has an engraving! You may need to adjust the ordernumber
+per the customer's request.
+```
+
+Gold and quartz aegis (ID aegis, ordernumber 3, yellow) [[[Order of Love]]]
+A shield in miniature is suspended from a golden linked chain, both insignia
+and halcyon strand forged from the most peerless minerals that the Jemeleon
+mines have to offer. Fashioned into a small echo of a kite shield, the
+shimmering emblem is round at the top and tapers to a dangerous point at its
+base. At its back, where the traditional enarmes would sit - the grips designed
+to affix a true shield to the wearer's arm - there is instead a simple clasping
+mechanism that allows one to wear it as a broach or a pin, should they choose
+to forego the chain. Subtly convex is the polished face of the aegis, and
+affixed upon this delicate curve is a bejeweled figure rife with meaning.
+Shaped with devotion and care from mellow lemon quartz is a pair of hands
+clasped in prayer, palms pressed to one another reverently: the regalia of the
+Order of the Immaculate Heart. The gemstone is breathtaking in its clarity,
+those delicate hands rendered in sharp relief upon incandescent stone the color
+of pale eastern sunlight. A simple letter S has been engraved into the back of
+the shield, denoting its designer as Seraphine.
+
+Engraving:
+At first glance, this tiny gilded shield appears to be bordered by a complex
+network of symbols and patterns - an elegant design that serves to enhance the
+glittering yellow symbol at its heart. Closer inspection reveals that motif to
+be born of words etched and repeated over and over like an eternal prayer,
+their presence imbuing the emblem with a sense of peaceful veneration: "Know
+you the Love of the Light. In your heart and in your mind, let the true Love of
+the Light shine. Be generous with the blessings given unto you and show
+compassion to those souls in need..."
+
+---
+
+```
+Order of Honor
+```
+
+Belt of the unbroken bond {ID belt, ordernumber 9, dye red} [[[Order of Honor]]]
+
+Fashioned of supple leather, braided rope, and tiny chain links, though
+intricate, this belt is not eye-catching per se but it is of true refinement. A
+dark brown strip of leather only a couple centimeters wide has a reddish hue to
+it and extends around the waist. A few slits have been cut into one of the ends
+of the leather to string or tie the rope through, allowing adjustment or
+tightening as necessary. Dainty gold chain links are carefully woven through
+the vivid red rope in a snaking pattern offering the slightest reflection of
+light. The rope is sewn atop the leather and extends beyond the strip, with
+much extra slack that the two braided ends hang down the front of the wearer
+somewhere between the thighs and the calves, depending. On each end of the rope
+is a small, square leather tag. Embroidered in a white thread upon one tag is a
+dove encompassed within a laurel wreath and upon the other is a chalice. Each
+representing honor and mediating peace as a part of the Order of Honor of
+Waylumi.
+
+---
+
+```
+Order of Honor, it has an engraving!
+```
+
+Gold and ruby aegis {ID aegis, ordernumber 3, dye brightred} [[[Order of Honor]]]
+
+A shield in miniature is suspended from a golden linked chain, both insignia
+and halcyon strand forged from the most immaculate minerals that the Jemeleon
+mines have to offer. Fashioned into a small echo of a kite shield, the
+shimmering emblem is round at the top and tapers to a dangerous point at its
+base. At its back, where the traditional enarmes would sit - the grips designed
+to affix a true shield to the wearer's arm - there is instead a simple clasping
+mechanism that allows one to wear it as a broach or a pin, should they choose
+to forego the chain. Subtly convex is the polished face of the aegis, and
+affixed upon this delicate curve is a bejeweled figure rife with meaning.
+Shaped with devotion and care from a single sanguine ruby is a phoenix in
+mid-flight, plumed tail curling protectively about the base of the shield: the
+regalia of the Order of the Unbroken Bond. The gemstone is breathtaking in its
+clarity, fierce freedom captured in wings rendered with sharp relief upon
+incandescent stone the color of a setting sun. A simple letter S has been
+engraved into the back of the shield, denoting its designer as Seraphine.
+
+Engraving:
+At first glance, this tiny gilded shield appears to be bordered by a complex
+network of symbols and patterns - an elegant design that serves to enhance the
+glittering crimson symbol at its heart. Closer inspection reveals that motif to
+be born of words etched and repeated over and over like an eternal prayer,
+their presence imbuing the emblem with a sense of unyielding will: "Know you
+the Honor of the Light. Walk bold with truth in hand and free forever be within
+the light of the path from the lies and wicked dealings of the darkness. Refuse
+the temptation to adopt its ways, for darkness only creates darkness..."
+
+---
+
+```
+Order of Honor
+```
+
+Gabardine phoenix cloak
+
+Woven threads of fine silk and cotton muslin are worked into this lightweight
+garbardine cloak, the combined fabrics allowing it to be soft and comfortable,
+yet far more durable to the elements. Dyed a brilliant shade of pure scarlet
+along the outside, the cloak has a heavy embroidered border around the edges,
+sewn in silver-spun metallic thread that glints with the natural movement of
+the garment. The center of the cloak has an arching wreath of silver chain
+links, forming a frame around an emblazoned phoenix, its talons clasped against
+the lowest curve of the unbroken circle. With wings outstretched like a
+protective fiery shield, the majestic fire feathered bird is turned to be
+looking out from the cloak with an eerie and almost piercing gaze, eyes
+accented by shards of pure ruby. Less metallic yet still silver, the inside of
+the cloak is lined in a layer of ultra fine silk, allowing it to be sleek and
+cool against skin or fur. At the front of the cloak, by the collarbone, the
+only form of fastening is a silver laurel wreath with a sharp spike and a tiny
+hinge that pierces through the cloak to hold it in place. The length of the
+cloak comes barely to the back of the calves, allowing it to be long enough to
+cover most of the body without being so long that it gets in the way of
+movement, the soft textures allowing it to sweep and billow easily.
+
+---
+
+```
+Order of Honor
+```
+
+Silver unbroken honor chain {ID chain, ordernumber 3, dye grey} [[[Order of Honor]]]
+
+Just thick enough to be durable without being heavy, this chain is made of
+mirror polished silver, the surface reflecting its surroundings with every
+movement and almost making the chain glow in the right lighting. Etched into
+the surface of the silver in intricate detail, the image of a dove in flight
+flutters like a mirage over the mirrored background, visible only in glimpses
+like the angelic wings of a guardian, ever present but rarely seen except from
+the corner of ones eye. An ultra thin ribbon of claret polished copper runs
+along the very center of the chain, woven through the links like an unbroken
+bond, the deep blood hue standing out in contrast to the silver.
+
+---
+
+```
+Order of Wisdom
+```
+
+Gold illuminated brooch of wisdom {ID brooch, ordernumber 5, dye yellow} [[[Order of Wisdom]]]
+Fastened with a small pin and clasp on the posterior side, this brooch shines a
+brilliant gold. The only dabble of differentiating color are two carefully set,
+inlaid sapphire eyes of the dove. Swirling pools of endless blue, there seems
+to be more behind these eyes, something wise and all-knowing. The dove, in
+midflight, is most detailed with its wings spread and shimmering, stern gaze
+forward. Where one would suspect a mace, its two feet, in fact, clench onto a
+thick and rich looking tome, the pages spread open for all to see. So lifelike,
+but without legible words, it's unsure if the tome is of ancient literature or
+something else. Inscribed upon the lower binding of the tome in elegant script
+is: 'The Resplendent Mind', representing the Order of Wisdom of Waylumi.
+
+---
+```
+Order of Wisdom
+```
+
+Resplendent mind sash {ID sash, ordernumber 9, dye white} [[[Order of Wisdom]]]
+Pure white, this luxurious charmeuse silk sash shimmers in the light, seeming
+to have a life of its own. Embroidered in royal blue along the front are
+symbols of the Order of the Resplendent Mind: Wisdom. An open scroll, a quill
+in ink, and a parchment are wreathed with writings and words captured within
+the argent grasp of subtly glittering silver thread. These writings follow the
+sleek line of the sash as it drapes about the wearer's waist, echoing
+sentiments and prayers for clarity of mind and heart. The reverent words
+embroidered onto the length of fabric echo the creeds of Waylumi: "Know the
+Wisdom of the Light. Be wise in the ways of the Light of the path. Discern with
+keen eyes and an open heart the truth of all things illuminated..." A carefully
+stitched tag placed inside the sash marks Cleta as its designer.
+
+---
+
+Silver and sapphire aegis {ID aegis, ordernumber 3, dyecast brightblue} [[[Order of Wisdom]]]
+A shield in miniature is suspended from an argent linked chain, both insignia
+and silver strand forged from the most immaculate minerals that the Jemeleon
+mines have to offer. Fashioned into a small echo of a kite shield, the
+shimmering emblem is round at the top and tapers to a dangerous point at its
+base. At its back, where the traditional enarmes would sit - the grips designed
+to affix a true shield to the wearer's arm - there is instead a simple clasping
+mechanism that allows one to wear it as a broach or a pin, should they choose
+to forego the chain. Subtly convex is the polished face of the aegis pendant,
+and affixed upon this delicate curve is a bejeweled figure rife with meaning.
+Shaped with devotion and care from fathomless cobalt sapphire is an hourglass
+topped with a wide and watchful eye: the regalia of the Order of the
+Resplendent Mind. The gemstone is breathtaking in its clarity, descending motes
+of sand carved and rendered in sharp relief upon stone the color of endless
+sunlit waters. A simple letter S has been engraved into the back of the shield,
+denoting its designer as Seraphine.
+
+Engraving:
+At first glance, this tiny silvered shield appears to be bordered by a complex
+network of symbols and patterns - an elegant design that serves to enhance the
+glittering cobalt symbol at its heart. Closer inspection reveals that motif to
+be born of words etched and repeated over and over like an eternal prayer,
+their presence imbuing the emblem with a sense of sharp clarity: "Know the
+Wisdom of the Light. Be wise in the ways of the Light of the path. Discern with
+keen eyes and an open heart the truth of all things illuminated. Stand firm
+holding the Light in one hand, the rod of Truth in the other..."
+
+---
+
+Silver and emerald aegis {ID aegis, ordernumber 3, dye brightgreen} [[[Order of Vigilance]]]
+
+A shield in miniature is suspended from an argent linked chain, both insignia
+and silver strand forged from the most immaculate minerals that the Jemeleon
+mines have to offer. Fashioned into a small echo of a kite shield, the
+shimmering emblem is round at the top and tapers to a dangerous point at its
+base. At its back, where the traditional enarmes would sit - the grips designed
+to affix a true shield to the wearer's arm - there is instead a simple clasping
+mechanism that allows one to wear it as a broach or a pin, should they choose
+to forego the chain. Subtly convex is the polished face of the aegis pendant,
+and affixed upon this delicate curve is a bejeweled figure rife with meaning.
+Shaped with devotion and care from deep green emerald is the fierce countenance
+of a dove, mace clutched firmly in her talons: the regalia of the Order of the
+Mace in Claw. The gemstone is breathtaking in its clarity, those fierce symbols
+rendered in sharp relief upon stone the color of a sun-dappled forest. A simple
+letter S has been engraved into the back of the shield, denoting its designer
+as Seraphine.
+
+Engraving:
+At first glance, this tiny silvered shield appears to be bordered by a complex
+network of symbols and patterns - an elegant design that serves to enhance the
+glittering green symbol at its heart. Closer inspection reveals that motif to
+be born of words etched and repeated over and over like an eternal prayer,
+their presence imbuing the emblem with a sense of devoted protectiveness: "Know
+the Vigilance of the Light. The Light is ever watchful, shining eternal from
+all things that shine with illumination, both within and without. Hold courage
+and valor in your hearts to shield yourself and others from the darkness that
+seeks to destroy..."
+
+---
+
+Silver pendant of vigilance (silver)  [[[Order of Vigilance]]]
+
+Silver has been forged into four thin, strong chains that have been woven
+together to make them nigh unbreakable. The chains support a mix of steel and
+silver, formed into a sturdy heater shield pendant with an array of symbols
+inlaid upon it. Green Andradite and amazonite crystals have been carefully set
+into the steel near the top of the shield, carved into an ever watchful eye
+that reflects the light. Below the ever vigilant eye is an alabaster dove,
+wings spread wide, with a shining silver mace clutched within its claws. Below
+the dove, the words "The light is ever watchful" have been meticulously etched
+into the polished steel.
+
+---
+
+```
+There is a [Personalized message] in the description!
+```
+
+Gold ring of the defender {ID ring, ordernumber 5, dye yellow}  [[[All Orders]]]
+
+This golden ring fits snugly on the wearer's index finger. Its face is formed
+into a crest. At its top is the Waylumi temple with Lady of Light shining above
+it. Below the temple, Gahlen is depicted at siege. On the right edge of the
+ring, orcs attempt to break through a phalanx of defenders. On the left edge of
+the ring, a looming dark figure climbs the  walls only to be held at bay by the
+same group of defenders. While the ring itself is bright gold, somehow the
+armor of the defenders shines even brighter and is matched only by the glow of
+the Lady of Light. You see the defenders of the city bear the holy symbols of
+the Lady as her trusted clergy and followers. In the center of the ring stand
+Gahlen's citizens. While defenseless, they show no fear; only pride and trust
+in the Lady's paladins. Though the defenders stand clearly outnumbered, their
+faces depict determination and sheer will. United, they stand in an unbroken
+defense of the city, its people, and the Lady of Light. Two words are inscribed
+into  the arms of the ring. The right side, "Vigilance" is carved against a
+brick wall. On its counter, "Love" is written into the leaves of a wreath. Both
+words scroll and meet at the bottom where a dove wielding a mace is stamped
+into base. [Personalized message] is etched into the inner lining of the ring.
+
+---
+
+Waylumi lace prayer shawl {ID shawl, ordernumber 4, dye grey}
+
+Raw spider silk has been spun into delicate, if slightly fuzzy, threads and
+worked with infinite care into a beautiful shawl of ethereal wonder. Long
+enough to surpass the arm span of an average elf and half as wide, each fiber
+has been dyed the palest of greys and carries with it an iridescent shimmer
+that glimmers in even the lowest of lights with a quiet elegance. Carefully
+woven, the lace reveals a pair of wings from a dove spread wide in flight so as
+the garment is donned, the feathers curl about the wearer in a warm and
+comforting embrace. Creating the border is a pattern, one that looks tribal and
+feminine all at the same time, swirls and curlicues that artistically represent
+hands joining hands with one another in an unbreaking chain. Embroidered on a
+bottom corner is a tiny J that denotes the designer as Jocelynn.

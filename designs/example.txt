@@ -1,0 +1,19 @@
+Notes for the entire group can be placed at the top of the file
+like this. And then you end it with six dashes
+
+------
+
+```
+This is an individual design note
+```
+
+Simple cotton shirt {ID shirt, ordernumber 6, dye blue} [[[Item List Note]]]
+
+This shirt is a simple garment constructed from cotton allowing for protection
+from the various elements but still allowing for breathability. A broad
+circular collar encircles the wearer's neck and shoulders, having been
+embroidered in a simplistic chain pattern out of thread of the same color as
+the rest of the shirt. Long sleeves end in similar cuffs at the wrist. The
+shirt hangs down to the waist, falling just beneath the navel. This article has
+been tailored to fit a wide range of wearers, including flaps that tie shut in
+the back to accommodate wings as needed.
